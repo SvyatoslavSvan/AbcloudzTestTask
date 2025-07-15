@@ -566,7 +566,7 @@
 	"variable": [
 		{
 			"key": "baseUrl",
-			"value": "https://localhost:7255/"
+			"value": "https://localhost:7255"
 		}
 	]
 }

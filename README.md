@@ -10,18 +10,20 @@
 
 ## Repository Structure
 
+```text
 AbcloudzTestTask/
-├── UsersApi/                    .NET Web API project
+├── UsersApi/ .NET Web API project
 ├── Tests/
-│   ├── Postman/            Postman collection & environment
-│   │   └── postman\_collection.json
-│   └── Java/               RestAssured tests
-        └── src
-          └── test
-            └── java
-              └── UsersApiTest.java
-│       └── pom.xml
+│ ├── Postman/ Postman collection & environment
+│ │ └── postman_collection.json
+│ └── Java/ RestAssured tests
+│ ├── pom.xml
+│ └── src/
+│ └── test/
+│ └── java/
+│ └── UsersApiTest.java
 └── README.md
+```
 
 ## 1. Running the API
 

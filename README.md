@@ -30,6 +30,7 @@ AbcloudzTestTask/
 1. Clone the repo:
    git clone [https://github.com/SvyatoslavSvan/AbcloudzTestTask.git](https://github.com/SvyatoslavSvan/AbcloudzTestTask.git)
    cd AbcloudzTestTask
+   cd UsersApi
 2. Launch the API:
    dotnet run --urls "[https://localhost:7255;http://localhost:5272](https://localhost:7255;http://localhost:5272)"
 3. The API will be available at:
